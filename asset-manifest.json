@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/duckList/static/css/main.5ce73d27.css",
+    "main.js": "/duckList/static/js/main.afac28c0.js",
+    "index.html": "/duckList/index.html",
+    "main.5ce73d27.css.map": "/duckList/static/css/main.5ce73d27.css.map",
+    "main.afac28c0.js.map": "/duckList/static/js/main.afac28c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce73d27.css",
+    "static/js/main.afac28c0.js"
+  ]
+}
